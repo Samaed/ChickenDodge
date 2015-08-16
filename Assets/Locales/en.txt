@@ -1,0 +1,14 @@
+LBL_USERNAME=Nickname
+INPUT_USERNAME=Type here...
+NET_OPTIONS=Network options
+TOGGLE_NET=Network play
+LBL_HOSTNAME=Host IP
+INPUT_HOST=ex.: 127.0.0.1
+LBL_PORT=Server port
+INPUT_PORT=ex.: 1234
+TOGGLE_SERVER=Server?
+LAUNCH=Play!
+SERVER_TITLE=Launch
+WAIT_FOR_CLIENT=Waiting for a client on port {PORT}...
+CLIENT_TITLE=Launch
+WAIT_FOR_SERVER=Connecting to {HOSTNAME}:{PORT}...

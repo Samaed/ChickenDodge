@@ -1,0 +1,14 @@
+LBL_USERNAME=Pseudo
+INPUT_USERNAME=Saisir ici...
+NET_OPTIONS=Options réseau
+TOGGLE_NET=Jouer en réseau
+LBL_HOSTNAME=IP à rejoindre
+INPUT_HOST=ex.: 127.0.0.1
+LBL_PORT=Port du serveur
+INPUT_PORT=ex.: 1234
+TOGGLE_SERVER=Serveur?
+LAUNCH=Démarrer!
+SERVER_TITLE=Lancement
+WAIT_FOR_CLIENT=En attente d'un client sur le port {PORT}...
+CLIENT_TITLE=Lancement
+WAIT_FOR_SERVER=Connexion à {HOSTNAME}:{PORT}...
